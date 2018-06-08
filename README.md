@@ -1,2 +1,2 @@
 # itoa
-An itoa test routine from mt SUBLEQ project.
+An itoa test routine from my SUBLEQ project.
